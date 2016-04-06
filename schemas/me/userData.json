@@ -1,0 +1,79 @@
+{
+  "id": "629800625",
+  "name": "Simon Nord",
+  "age_range": {
+    "min": 21
+  },
+  "currency": {
+    "currency_offset": 100,
+    "usd_exchange": 0.11945142,
+    "usd_exchange_inverse": 8.3716041216,
+    "user_currency": "SEK"
+  },
+  "cover": {
+    "id": "10156232862530626",
+    "offset_y": 25,
+    "source": "https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-8/s720x720/12238309_10156232862530626_3961088002318095148_o.jpg"
+  },
+  "first_name": "Simon",
+  "friends": {
+    "data": [
+      {
+        "first_name": "Martin",
+        "last_name": "Eliasson",
+        "bio": "Crazy, energetic, ADD, cuddly, crossfit, skateboard, technology, food, beer, friends and MUSIC!",
+        "cover": {
+          "id": "10151894833604173",
+          "source": "https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/894734_10151894833604173_1177651604_o.jpg",
+          "offset_y": 96
+        },
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+        "id": "614459172"
+      },
+      {
+        "first_name": "Charlie",
+        "last_name": "Hedström",
+        "cover": {
+          "id": "10153432556723181",
+          "source": "https://scontent.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s720x720/12748077_10153432556723181_1782114585656414816_o.jpg",
+          "offset_y": 0
+        },
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+        "id": "694843180"
+      },
+      {
+        "first_name": "Andreas",
+        "last_name": "Sundström",
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+        "id": "720583803"
+      }
+    ],
+    "paging": {
+      "next": "https://graph.facebook.com/v2.5/629800625/friends?fields=context,first_name,last_name,bio,cover,currency,address&access_token=CAACEdEose0cBAMObZA3fAjPZCpv8QZBsksL9DXHf22WKrmZBystezUQF80PKYiFd9kswfK8SX5bv9VZAfz86z2brqBDx24FH0YL9IkGFeSDVgdxpm1e41iBI9XzHiF9LhikAIWeDoNzAYpWfYs6hGEKGEeyZAGy2uIJwAJG9yw9NvfPSUgaBpfI5FaXsV2RQMuMSzwSsz9FgZDZD&limit=25&offset=25&__after_id=enc_AdAaIzP505gZAfwxvg9vC9tBzoA6trhoamVySSL1u6fkuvoPj1wZBzyepGopp4A5ix4bAZD"
+    },
+    "summary": {
+      "total_count": 340
+    }
+  }
+}

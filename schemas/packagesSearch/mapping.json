@@ -1,0 +1,39 @@
+{
+  "mappings" : {
+    "package" : {
+      "properties" : {
+        "author" : {
+          "type" : "string",
+          "index" : "not_analyzed"
+        },
+        "dependencies" : {
+          "properties" : {
+            "name" : {
+              "type" : "string",
+              "index" : "not_analyzed"
+            },
+            "version" : {
+              "type" : "string",
+              "index" : "not_analyzed"
+            }
+          }
+        },
+        "description" : {
+          "type" : "string"
+        },
+        "license" : {
+          "type" : "string",
+          "index" : "not_analyzed"
+        },
+        "name" : {
+          "type" : "string",
+          "index" : "not_analyzed"
+        },
+        "version" : {
+          "type" : "string",
+          "index" : "not_analyzed"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Simon Nord",
+  "health": "good",
+  "age_range": {
+    "min": 21
+  },
+  "currency": {
+    "currency_offset": 100,
+    "usd_exchange": 0.11945142,
+    "usd_exchange_inverse": 8.3716041216,
+    "user_currency": "SEK"
+  },
+  "cover": {
+    "offset_y": 25,
+    "source": "https://data.jpg"
+  },
+  "first_name": "Simon",
+  "friends": {
+    "data": [
+      {
+        "first_name": "Martin",
+        "last_name": "Eliasson",
+        "bio": "Crazy, energetic, ADD, cuddly, crossfit, skateboard, technology, food, beer, friends and MUSIC!",
+        "cover": {
+          "source": "https://data.jpg",
+          "offset_y": 96
+        },
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+      },
+      {
+        "first_name": "Charlie",
+        "last_name": "Hedström",
+        "cover": {
+          "source": "https://data.jpg",
+          "offset_y": 0
+        },
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+      },
+      {
+        "first_name": "Andreas",
+        "last_name": "Sundström",
+        "currency": {
+          "user_currency": "SEK",
+          "currency_exchange": 1.1945142,
+          "currency_exchange_inverse": 0.8371604122,
+          "usd_exchange": 0.11945142,
+          "usd_exchange_inverse": 8.3716041216,
+          "currency_offset": 100
+        },
+      }
+    ]
+  }
+}
