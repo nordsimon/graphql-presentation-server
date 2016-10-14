@@ -16,7 +16,7 @@ var schema = new graphql.GraphQLSchema({
       packagesSearch: packagesSearch
     }
   })
-});
+})
 
 app.use(cors());
 app.use('/graphql', graphqlHTTP({ schema: schema, graphiql: true }));
